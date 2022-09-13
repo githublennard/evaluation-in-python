@@ -1,10 +1,15 @@
 # Evaluation in Python
 
-Exam/Quiz to verify Python Skills 
+Exam/Quiz to verify Python Skills. 
 
-## Preguntas sobre codificación
+## Questions about codification 
 
-* Las preguntas están aquí: [codificacion/test.md](codificacion/test.md)
-* Se tiene que generar un fichero en la carpeta *resultado* denominado *coding-test* con el resultado de la codificación.
+* Questions are here: [codificacion/test.md](codificacion/test.md)
+* Solution is located in: [resultado/coding-test.py](resultado/coding-test.py)
+
+## Questions about programming 
+
+* Questions are here: [programacion/test.md](programacion/test.md)
+* Solution is located in: [resultado/programacion-test.py](resultado/programacion-test.py)
 
 
